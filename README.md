@@ -111,7 +111,19 @@ open-platform-microservices/
    redis-server
    ```
 
-4. 启动各个微服务:
+4. 初始化数据库
+   ```bash
+   # 执行数据库脚本
+   mysql -u root -p < scripts/db/init_db.sql
+   ```
+
+5. 配置Nacos
+   ```bash
+   # 将配置文件导入Nacos
+   # 可通过Nacos控制台或API导入scripts/nacos/目录下的配置文件
+   ```
+
+6. 启动各个微服务:
    ```bash
    # 用户服务
    cd user-service && mvn spring-boot:run
@@ -176,6 +188,14 @@ open-platform-microservices/
 - `cola-component-dto`：DTO组件，定义了统一的数据传输格式
 - 本地实现了BizException和SysException异常处理类
 - 本地实现了Response、SingleResponse和MultiResponse响应类
+
+### 持久化方案
+
+项目采用MyBatis-Plus作为持久化框架，实现业务逻辑与技术实现的分离：
+- Domain层实体保持纯净，不包含任何持久化注解
+- Infrastructure层定义数据对象(DO)，包含MyBatis-Plus注解
+- 提供仓储接口在Domain层，仓储实现类在Infrastructure层
+- 通过数据对象与领域实体的转换实现持久化操作
 
 ## 服务间通信
 
