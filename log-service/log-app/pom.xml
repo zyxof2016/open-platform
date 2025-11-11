@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
+                             http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>com.openplatform</groupId>
+        <artifactId>log-service</artifactId>
+        <version>1.0.0-SNAPSHOT</version>
+    </parent>
+
+    <artifactId>log-app</artifactId>
+    <packaging>jar</packaging>
+    <name>log-app</name>
+    <description>日志服务应用层模块</description>
+
+    <dependencies>
+        <!-- 依赖领域模块 -->
+        <dependency>
+            <groupId>com.openplatform</groupId>
+            <artifactId>log-domain</artifactId>
+        </dependency>
+
+        <!-- 依赖API模块 -->
+        <dependency>
+            <groupId>com.openplatform</groupId>
+            <artifactId>log-api</artifactId>
+        </dependency>
+
+        <!-- 依赖公共模块 -->
+        <dependency>
+            <groupId>com.openplatform</groupId>
+            <artifactId>log-common</artifactId>
+        </dependency>
+
+        <!-- Spring Boot Starter -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter</artifactId>
+        </dependency>
+
+        <!-- Lombok -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.32</version>
+            <optional>true</optional>
+        </dependency>
+    </dependencies>
+</project>

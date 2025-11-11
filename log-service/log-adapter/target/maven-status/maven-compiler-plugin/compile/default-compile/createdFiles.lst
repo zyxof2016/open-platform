@@ -1,0 +1,3 @@
+com/openplatform/log/adapter/LogApplication.class
+com/openplatform/log/adapter/converter/LogConverter.class
+com/openplatform/log/adapter/controller/LogController.class

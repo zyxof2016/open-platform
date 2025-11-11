@@ -1,0 +1,2 @@
+com/openplatform/api/management/app/dto/ApiDTO.class
+com/openplatform/api/management/app/command/CreateApiCommand.class

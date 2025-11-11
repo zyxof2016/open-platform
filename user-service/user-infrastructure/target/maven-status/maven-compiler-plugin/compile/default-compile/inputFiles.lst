@@ -1,0 +1,3 @@
+/home/zyx/devops/javaProjects/open-platform/user-service/user-infrastructure/src/main/java/com/openplatform/user/infrastructure/extension/SpringExtensionRegistry.java
+/home/zyx/devops/javaProjects/open-platform/user-service/user-infrastructure/src/main/java/com/openplatform/user/infrastructure/extension/user/DefaultUserValidationExtension.java
+/home/zyx/devops/javaProjects/open-platform/user-service/user-infrastructure/src/main/java/com/openplatform/user/infrastructure/event/SpringDomainEventPublisher.java

@@ -1,0 +1,6 @@
+/home/zyx/devops/javaProjects/open-platform/log-service/log-domain/src/main/java/com/openplatform/log/domain/service/impl/LogServiceImpl.java
+/home/zyx/devops/javaProjects/open-platform/log-service/log-domain/src/main/java/com/openplatform/log/domain/entity/BaseEntity.java
+/home/zyx/devops/javaProjects/open-platform/log-service/log-domain/src/main/java/com/openplatform/log/domain/entity/Log.java
+/home/zyx/devops/javaProjects/open-platform/log-service/log-domain/src/main/java/com/openplatform/log/domain/command/CreateLogCommand.java
+/home/zyx/devops/javaProjects/open-platform/log-service/log-domain/src/main/java/com/openplatform/log/domain/service/LogService.java
+/home/zyx/devops/javaProjects/open-platform/log-service/log-domain/src/main/java/com/openplatform/log/domain/dto/LogDTO.java

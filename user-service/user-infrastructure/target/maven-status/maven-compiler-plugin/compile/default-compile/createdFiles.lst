@@ -1,0 +1,3 @@
+com/openplatform/user/infrastructure/extension/user/DefaultUserValidationExtension.class
+com/openplatform/user/infrastructure/extension/SpringExtensionRegistry.class
+com/openplatform/user/infrastructure/event/SpringDomainEventPublisher.class

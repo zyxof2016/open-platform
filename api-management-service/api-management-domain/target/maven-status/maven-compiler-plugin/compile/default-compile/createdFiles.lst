@@ -1,0 +1,6 @@
+com/openplatform/api/management/domain/entity/Api.class
+com/openplatform/api/management/domain/dto/ApiDTO.class
+com/openplatform/api/management/domain/entity/BaseEntity.class
+com/openplatform/api/management/domain/command/CreateApiCommand.class
+com/openplatform/api/management/domain/service/impl/ApiServiceImpl.class
+com/openplatform/api/management/domain/service/ApiService.class

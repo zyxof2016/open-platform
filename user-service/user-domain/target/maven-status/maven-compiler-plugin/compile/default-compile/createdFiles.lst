@@ -1,0 +1,17 @@
+com/openplatform/user/domain/event/AbstractDomainEvent.class
+com/openplatform/user/domain/event/DomainEvent.class
+com/openplatform/user/domain/user/extension/UserValidationExtension.class
+com/openplatform/user/domain/user/UserDeletedEvent.class
+com/openplatform/user/domain/entity/User.class
+com/openplatform/user/domain/repository/UserRepository.class
+com/openplatform/user/domain/user/UserCreatedEvent.class
+com/openplatform/user/domain/event/DomainEventPublisher.class
+com/openplatform/user/domain/user/UserUpdatedEvent.class
+com/openplatform/user/domain/extension/ExtensionExecutor.class
+com/openplatform/user/domain/user/extension/UserValidationContext.class
+com/openplatform/user/domain/service/impl/UserServiceImpl.class
+com/openplatform/user/domain/entity/BaseEntity.class
+com/openplatform/user/domain/service/UserService.class
+com/openplatform/user/domain/extension/ExtensionPoint.class
+com/openplatform/user/domain/user/extension/UserValidationResult.class
+com/openplatform/user/domain/extension/ExtensionRegistry.class

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/api-management-service/api-management-adapter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-management-service/api-management-adapter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-management-service/api-management-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-management-service/api-management-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-management-service/api-management-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-management-service/api-management-app/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-management-service/api-management-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-management-service/api-management-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-management-service/api-management-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-management-service/api-management-domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-management-service/api-management-infrastructure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-management-service/api-management-infrastructure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-management-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-management-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-service/auth-adapter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-service/auth-adapter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-service/auth-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-service/auth-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-service/auth-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-service/auth-app/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-service/auth-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-service/auth-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-service/auth-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-service/auth-domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-service/auth-infrastructure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-service/auth-infrastructure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log-service/log-adapter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log-service/log-adapter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log-service/log-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log-service/log-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log-service/log-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log-service/log-app/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log-service/log-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log-service/log-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log-service/log-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log-service/log-domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log-service/log-infrastructure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log-service/log-infrastructure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-service/user-adapter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-service/user-adapter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-service/user-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-service/user-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-service/user-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-service/user-app/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-service/user-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-service/user-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-service/user-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-service/user-domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-service/user-infrastructure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-service/user-infrastructure/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

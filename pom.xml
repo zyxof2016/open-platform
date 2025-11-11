@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
+                             http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.openplatform</groupId>
+    <artifactId>open-platform-microservices</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <name>open-platform-microservices</name>
+    <description>分布式开放平台微服务项目</description>
+
+    <modules>
+        <module>user-service</module>
+        <module>auth-service</module>
+        <module>api-management-service</module>
+        <module>log-service</module>
+        <module>gateway-service</module>
+    </modules>
+
+    <properties>
+        <cola.version>4.2.1</cola.version>
+    </properties>
+
+    <dependencyManagement>
+        <dependencies>
+            <!-- COLA Framework -->
+            <dependency>
+                <groupId>com.alibaba.cola</groupId>
+                <artifactId>cola-starter</artifactId>
+                <version>${cola.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.alibaba.cola</groupId>
+                <artifactId>cola-core</artifactId>
+                <version>${cola.version}</version>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+</project>

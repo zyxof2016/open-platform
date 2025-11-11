@@ -1,0 +1,6 @@
+/home/zyx/devops/javaProjects/open-platform/auth-service/auth-domain/src/main/java/com/openplatform/auth/domain/service/impl/AuthServiceImpl.java
+/home/zyx/devops/javaProjects/open-platform/auth-service/auth-domain/src/main/java/com/openplatform/auth/domain/dto/AuthResponseDTO.java
+/home/zyx/devops/javaProjects/open-platform/auth-service/auth-domain/src/main/java/com/openplatform/auth/domain/entity/BaseEntity.java
+/home/zyx/devops/javaProjects/open-platform/auth-service/auth-domain/src/main/java/com/openplatform/auth/domain/service/AuthService.java
+/home/zyx/devops/javaProjects/open-platform/auth-service/auth-domain/src/main/java/com/openplatform/auth/domain/entity/AuthToken.java
+/home/zyx/devops/javaProjects/open-platform/auth-service/auth-domain/src/main/java/com/openplatform/auth/domain/command/LoginCommand.java

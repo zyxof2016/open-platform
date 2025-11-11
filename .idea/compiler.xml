@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="api-management-common" />
+        <module name="log-domain" />
+        <module name="auth-adapter" />
+        <module name="log-infrastructure" />
+        <module name="api-management-adapter" />
+        <module name="user-api" />
+        <module name="api-management-app" />
+        <module name="log-app" />
+        <module name="user-app" />
+        <module name="log-adapter" />
+        <module name="auth-common" />
+        <module name="api-management-api" />
+        <module name="log-api" />
+        <module name="user-infrastructure" />
+        <module name="auth-domain" />
+        <module name="api-management-domain" />
+        <module name="log-common" />
+        <module name="user-adapter" />
+        <module name="user-common" />
+        <module name="api-management-infrastructure" />
+        <module name="auth-app" />
+        <module name="user-domain" />
+        <module name="auth-infrastructure" />
+        <module name="gateway-service" />
+        <module name="auth-api" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+package com.openplatform.user.domain.entity;
+
+import lombok.Data;
+import lombok.EqualsAndHashCode;
+
+/**
+ * 用户实体
+ */
+@Data
+@EqualsAndHashCode(callSuper = true)
+public class User extends BaseEntity {
+
+    private String username;
+    private String password;
+    private String email;
+    private String phone;
+    private String status;
+    private String realName;
+}

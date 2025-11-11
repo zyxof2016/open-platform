@@ -1,0 +1,6 @@
+com/openplatform/log/domain/service/impl/LogServiceImpl.class
+com/openplatform/log/domain/command/CreateLogCommand.class
+com/openplatform/log/domain/service/LogService.class
+com/openplatform/log/domain/entity/BaseEntity.class
+com/openplatform/log/domain/entity/Log.class
+com/openplatform/log/domain/dto/LogDTO.class

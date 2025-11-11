@@ -1,0 +1,6 @@
+com/openplatform/auth/domain/service/AuthService.class
+com/openplatform/auth/domain/command/LoginCommand.class
+com/openplatform/auth/domain/entity/BaseEntity.class
+com/openplatform/auth/domain/dto/AuthResponseDTO.class
+com/openplatform/auth/domain/service/impl/AuthServiceImpl.class
+com/openplatform/auth/domain/entity/AuthToken.class

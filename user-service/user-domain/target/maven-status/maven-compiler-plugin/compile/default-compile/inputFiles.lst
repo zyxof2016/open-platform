@@ -1,0 +1,17 @@
+/home/zyx/devops/javaProjects/open-platform/user-service/user-domain/src/main/java/com/openplatform/user/domain/user/UserCreatedEvent.java
+/home/zyx/devops/javaProjects/open-platform/user-service/user-domain/src/main/java/com/openplatform/user/domain/extension/ExtensionPoint.java
+/home/zyx/devops/javaProjects/open-platform/user-service/user-domain/src/main/java/com/openplatform/user/domain/extension/ExtensionExecutor.java
+/home/zyx/devops/javaProjects/open-platform/user-service/user-domain/src/main/java/com/openplatform/user/domain/extension/ExtensionRegistry.java
+/home/zyx/devops/javaProjects/open-platform/user-service/user-domain/src/main/java/com/openplatform/user/domain/service/impl/UserServiceImpl.java
+/home/zyx/devops/javaProjects/open-platform/user-service/user-domain/src/main/java/com/openplatform/user/domain/entity/BaseEntity.java
+/home/zyx/devops/javaProjects/open-platform/user-service/user-domain/src/main/java/com/openplatform/user/domain/user/UserDeletedEvent.java
+/home/zyx/devops/javaProjects/open-platform/user-service/user-domain/src/main/java/com/openplatform/user/domain/user/extension/UserValidationResult.java
+/home/zyx/devops/javaProjects/open-platform/user-service/user-domain/src/main/java/com/openplatform/user/domain/user/extension/UserValidationContext.java
+/home/zyx/devops/javaProjects/open-platform/user-service/user-domain/src/main/java/com/openplatform/user/domain/service/UserService.java
+/home/zyx/devops/javaProjects/open-platform/user-service/user-domain/src/main/java/com/openplatform/user/domain/user/UserUpdatedEvent.java
+/home/zyx/devops/javaProjects/open-platform/user-service/user-domain/src/main/java/com/openplatform/user/domain/event/AbstractDomainEvent.java
+/home/zyx/devops/javaProjects/open-platform/user-service/user-domain/src/main/java/com/openplatform/user/domain/entity/User.java
+/home/zyx/devops/javaProjects/open-platform/user-service/user-domain/src/main/java/com/openplatform/user/domain/event/DomainEventPublisher.java
+/home/zyx/devops/javaProjects/open-platform/user-service/user-domain/src/main/java/com/openplatform/user/domain/user/extension/UserValidationExtension.java
+/home/zyx/devops/javaProjects/open-platform/user-service/user-domain/src/main/java/com/openplatform/user/domain/event/DomainEvent.java
+/home/zyx/devops/javaProjects/open-platform/user-service/user-domain/src/main/java/com/openplatform/user/domain/repository/UserRepository.java
