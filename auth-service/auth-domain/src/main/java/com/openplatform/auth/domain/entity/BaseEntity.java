@@ -16,4 +16,5 @@ public abstract class BaseEntity {
     private LocalDateTime createdTime;
     private LocalDateTime updatedTime;
     private Long version;
+    private String tenantId;
 }

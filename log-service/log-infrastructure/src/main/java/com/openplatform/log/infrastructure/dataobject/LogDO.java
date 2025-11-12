@@ -25,6 +25,9 @@ public class LogDO {
     @TableField("version")
     private Long version;
     
+    @TableField("tenant_id")
+    private String tenantId;
+    
     @TableField("trace_id")
     private String traceId;
     

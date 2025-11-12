@@ -25,6 +25,9 @@ public class ApiDO {
     @TableField("version")
     private Long version;
     
+    @TableField("tenant_id")
+    private String tenantId;
+    
     @TableField("name")
     private String name;
     

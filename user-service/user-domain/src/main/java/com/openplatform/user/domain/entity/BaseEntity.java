@@ -18,4 +18,5 @@ public abstract class BaseEntity {
     private String createdBy;
     private String updatedBy;
     private Long version;
+    private String tenantId;
 }

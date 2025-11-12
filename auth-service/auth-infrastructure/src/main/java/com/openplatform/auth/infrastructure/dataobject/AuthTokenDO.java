@@ -25,6 +25,9 @@ public class AuthTokenDO {
     @TableField("version")
     private Long version;
     
+    @TableField("tenant_id")
+    private String tenantId;
+    
     @TableField("user_id")
     private Long userId;
     

@@ -31,6 +31,9 @@ public class UserDO {
     @TableField("version")
     private Long version;
     
+    @TableField("tenant_id")
+    private String tenantId;
+    
     @TableField("username")
     private String username;
     

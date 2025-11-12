@@ -5,24 +5,38 @@ package com.openplatform.user.common.exception;
  */
 public class BizException extends RuntimeException {
 
-    private String errCode;
+    private final String errCode;
+    private final String messageKey;
 
-    public BizException(String errCode, String message) {
-        super(message);
+    public BizException(String errCode, String messageKey) {
+        super(messageKey);
         this.errCode = errCode;
+        this.messageKey = messageKey;
+    }
+
+    public BizException(ErrorCode errorCode) {
+        this(errorCode.getCode(), errorCode.getMessageKey());
     }
 
     public BizException(String message) {
-        super(message);
-        this.errCode = "BIZ_ERROR";
+        this("BIZ_ERROR", message);
     }
 
-    public BizException(String errCode, String message, Throwable cause) {
-        super(message, cause);
+    public BizException(String errCode, String messageKey, Throwable cause) {
+        super(messageKey, cause);
         this.errCode = errCode;
+        this.messageKey = messageKey;
+    }
+
+    public BizException(ErrorCode errorCode, Throwable cause) {
+        this(errorCode.getCode(), errorCode.getMessageKey(), cause);
     }
 
     public String getErrCode() {
         return errCode;
+    }
+    
+    public String getMessageKey() {
+        return messageKey;
     }
 }
