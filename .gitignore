@@ -1,0 +1,114 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.nextUpdate
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.properties
+
+# IDE
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+*.iws
+out/
+
+# Eclipse
+.settings/
+.project
+.classpath
+.ajcore
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Temp files
+*.tmp
+*.temp
+*.bak
+
+# Runtime data
+pid
+
+# Local configuration
+local.properties
+config-local.properties
+
+# Environment specific files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Package manager
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sensitive files
+application-local.yml
+application-dev.yml
+**/local/**
+*.key
+*.pem
+
+# Database
+*.db
+*.db-journal
+
+# Compiled class file
+*.class
+
+# JAR files
+*.jar
+*.war
+*.ear
+
+# Java packages
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov
+
+# Unit test reports
+test-report/
+test-results/
+
+# Compiled dynamic-link libraries
+.libs/
+*.so
+
+# Various IDEs
+*.swp
+*.swo
+*~
